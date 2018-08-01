@@ -1,0 +1,54 @@
+.row {   
+
+    background-image: url("https://whatnerdslike.files.wordpress.com/2012/04/32.jpg");
+    color:black;
+    font-size:20px;
+    display:flex;
+    justify-content: space-around;
+    font-family: 'PepsiCyrLatRegular'; 
+    font-weight: normal; 
+    font-style: normal; 
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.headshot{
+    width:20%;
+    border-color: black;
+    border-radius: 50%;
+    
+    
+   
+}
+.mid{
+    background-color:#B3AEAD;
+    color:black;
+    align-items:center;
+    font-size:10px;
+    margin-top:5px;
+    margin-bottom:5px;
+    display:flex;
+    justify-content: space-around;
+    font-family: 'PepsiCyrLatRegular'; 
+    font-weight: normal; 
+    font-style: normal;
+
+    
+}
+.g{
+    background-color: pink;
+    padding: 5px;
+    border-radius:30%;
+    }
+
+.aboutme{
+      background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/13650/180119_el_gordo_1.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835");
+    font-family: 'SturkopfGroteskMedium'; 
+    font-weight: normal; 
+    font-style: normal;
+    text-align: center;
+    color: white;
+    letter-spacing: 4px;
+    padding: 100px;
+    border: 5px solid black;
+    margin-bottom: 10px;
+}
