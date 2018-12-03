@@ -5,11 +5,12 @@
     font-size:20px;
     display:flex;
     justify-content: space-around;
-    font-family: 'PepsiCyrLatRegular'; 
+    font-family: 'SturkopfGroteskMedium'; 
     font-weight: normal; 
     font-style: normal; 
     margin-top:5px;
     margin-bottom:5px;
+    padding: 2px;
 }
 .headshot{
     width:20%;
@@ -20,24 +21,26 @@
    
 }
 .mid{
-    background-color:#B3AEAD;
-    color:black;
+    background-color:black;
+    color:white;
     align-items:center;
-    font-size:10px;
+    font-size:16px;
     margin-top:5px;
     margin-bottom:5px;
     display:flex;
     justify-content: space-around;
-    font-family: 'PepsiCyrLatRegular'; 
+    font-family: 'SturkopfGroteskMedium'; 
     font-weight: normal; 
     font-style: normal;
+    letter-spacing: 5px;
+    padding: 40px;
 
     
 }
 .g{
-    background-color: pink;
+    background-color:white;
     padding: 5px;
-    border-radius:30%;
+    border-radius:100%;
     }
 
 .aboutme{
@@ -48,7 +51,31 @@
     text-align: center;
     color: white;
     letter-spacing: 4px;
-    padding: 100px;
+    padding: 300px;
     border: 5px solid black;
-    margin-bottom: 10px;
+    margin: 1px;
 }
+.anime {
+    max-width: 35vw;
+    max-height: 35vh;
+    cursor: pointer;
+    
+    }
+#images {
+    background-color: #D8D7D4;
+    margin-top: 1px;
+    }
+#gal {
+    text-align: center;
+    margin: 5px;
+    font-family: 'SturkopfGroteskMedium';
+    font-weight: normal; 
+    font-style: normal;
+    font-size: 30px;
+    letter-spacing: 7px;
+}
+#otherstuff {
+    padding: 200px;
+    margin: 1px;
+    background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/13650/180119_el_gordo_1.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835");
+    }
