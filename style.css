@@ -61,6 +61,9 @@
     cursor: pointer;
     
     }
+.hello {
+    background-color:pink;
+}
 #images {
     background-color: #D8D7D4;
     margin-top: 1px;
@@ -74,8 +77,12 @@
     font-size: 30px;
     letter-spacing: 7px;
 }
+.me {
+    background-color: pink;
+}
 #otherstuff {
     padding: 200px;
     margin: 1px;
     background-image: url("https://cosmos-images1.imgix.net/file/spina/photo/13650/180119_el_gordo_1.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835");
     }
+    
