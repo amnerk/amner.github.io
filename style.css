@@ -78,7 +78,46 @@
     letter-spacing: 7px;
 }
 .me {
-    background-color: pink;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: 'SturkopfGroteskMedium';
+    font-size:60px;
+}
+.info {
+    background-color: #d4d6b6;
+    
+}
+.yo {
+    font-family: 'SturkopfGroteskMedium';
+    display:flex;
+    justify-content:space-around;
+    text-align: center;
+    padding: 60px;
+    margin: 1px;
+}
+.boy {
+    font-family: 'SturkopfGroteskMedium';
+    font-size: 34px;
+    color:white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.yo2 {
+    font-family: 'SturkopfGroteskMedium';
+    display:flex;
+    justify-content:space-around;
+    text-align: center;
+    padding: 60px;
+    margin: 1px;
+}
+.stuff {
+    font-family: 'SturkopfGroteskMedium';
+    text-align: center;
+    font-size: 70px;
+}
+.girl {
+    background-color: #0b083d;
 }
 #otherstuff {
     padding: 200px;
